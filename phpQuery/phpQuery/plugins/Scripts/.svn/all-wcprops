@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/plugins/Scripts
+END
+print_websafe.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/plugins/Scripts/print_websafe.php
+END
+example.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/plugins/Scripts/example.php
+END
+print_source.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/plugins/Scripts/print_source.php
+END
+__config.example.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/plugins/Scripts/__config.example.php
+END
+google_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/plugins/Scripts/google_login.php
+END
+fix_webroot.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/plugins/Scripts/fix_webroot.php
+END

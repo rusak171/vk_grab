@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Http/Client/Adapter
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Http/Client/Adapter/Exception.php
+END
+Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Http/Client/Adapter/Test.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Http/Client/Adapter/Interface.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Http/Client/Adapter/Proxy.php
+END
+Socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Http/Client/Adapter/Socket.php
+END

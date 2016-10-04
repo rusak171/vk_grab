@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Exception.php
+END
+Uri.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Uri.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Loader.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/367/branches/dev/phpQuery/phpQuery/Zend/Registry.php
+END
